@@ -26,7 +26,7 @@ regex==2020.11.13
 requests==2.25.1
 six==1.15.0
 soupsieve==2.2
-sqlparse==0.4.1
+sqlparse==0.4.2
 tablib==3.0.0
 toml==0.10.2
 typed-ast==1.4.2
